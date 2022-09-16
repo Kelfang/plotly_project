@@ -20,6 +20,5 @@ The various methods of figures used illustrates the importance of giving people 
 To access my Plotly Project webpage, please click [here](https://kelfang.github.io/plotly_project/).
 
 <sub>Webpage Header</sub>
-
 ![header_image](https://github.com/Kelfang/plotly_project/blob/main/images/header_image.png)
 
