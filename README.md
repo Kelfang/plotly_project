@@ -21,5 +21,5 @@ To access my Plotly Project webpage, please click [here](https://kelfang.github.
 
 <sub>Webpage Header</sub>
 
-[header_image](https://github.com/Kelfang/plotly_project/blob/main/images/header_image.png)
+![header_image](https://github.com/Kelfang/plotly_project/blob/main/images/header_image.png)
 
