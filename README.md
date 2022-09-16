@@ -22,3 +22,6 @@ To access my Plotly Project webpage, please click [here](https://kelfang.github.
 <sub>Webpage Header</sub>
 ![header_image](https://github.com/Kelfang/plotly_project/blob/main/images/header_image.png)
 
+--------------------------------------------------------------------------------------------------------------------
+*<sub>Photo in webpage header courtesy of <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/bacteria?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash.</a></sub>*
+  
